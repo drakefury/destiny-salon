@@ -720,7 +720,8 @@ footer {
   }
 
   /* Hide desktop booking button on mobile */
-  .desktop-book-btn {
+  .desktop-book-btn,
+  .nav-container .btn {
     display: none;
   }
 
